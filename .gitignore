@@ -2,3 +2,4 @@ logs/
 main.logs
 *.logs
 .DS_Store
+bin/
