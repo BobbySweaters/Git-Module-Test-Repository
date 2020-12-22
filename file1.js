@@ -1,3 +1,0 @@
-openHello
-World
-test
